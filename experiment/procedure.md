@@ -1,4 +1,4 @@
-<b>Procedure in laboratory (diagram)</b>
+<b>Procedure in laboratory (diagram)</b><br>
 <image src=images/p1.png><br>
 <image src=images/p2.png><br>
 <b>Procedure in laboratory</b><br>
