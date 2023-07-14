@@ -2,12 +2,29 @@
   "version": 2.0,
   "questions": [
     {
-      "question": "This is a Sample Question 1?",
+      "question": "1. Among the following the highest value of the Knee voltage is for",
       "answers": {
-        "a": "answer1",
-        "b": "answer2",
-        "c": "answer3",
-        "d": "answer4"
+        "a": "a red LED",
+        "b": "a yellow LED",
+        "c": "a green LED",
+        "d": "a blue LED"
+      },
+      "explanations": {
+        "a": "Explanation 1  <a href='www.google.com'>here</a>",
+        "b": "Explanation 2",
+        "c": "Explanation 2",
+        "d": "Explanation 2"
+      },
+      "correctAnswer": "d",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "2. Planck constant ",
+      "answers": {
+        "a": "is a universal constant",
+        "b": "depends on the medium",
+        "c": "depends on the wavelength of light",
+        "d": "is proportional to the temperature"
       },
       "explanations": {
         "a": "Explanation 1  <a href='www.google.com'>here</a>",
@@ -19,12 +36,29 @@
       "difficulty": "beginner"
     },
     {
-      "question": "This is a Sample Question 2?",
+      "question": "3. Planck constant is used ",
       "answers": {
-        "a": "answer1",
-        "b": "answer2",
-        "c": "answer3",
-        "d": "answer4"
+        "a": "for calculating dimension of a particle.",
+        "b": "for describing the behavior of particles and waves at an atomic scale.",
+        "c": "for measuring the gravitational force.",
+        "d": "for the estimation of curvature of a mirror"
+      },
+      "explanations": {
+        "a": "Explanation 1  <a href='www.google.com'>here</a>",
+        "b": "Explanation 2",
+        "c": "Explanation 2",
+        "d": "Explanation 2"
+      },
+      "correctAnswer": "b",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "4. Planck law describes ",
+      "answers": {
+        "a": "total heat content of a system",
+        "b": "the spectrum of a laser beam.",
+        "c": "the spectrum of black body radiation",
+        "d": "excited state lifetime of a molecule"
       },
       "explanations": {
         "a": "Explanation 1  <a href='www.google.com'>here</a>",
@@ -33,6 +67,23 @@
         "d": "Explanation 2"
       },
       "correctAnswer": "c",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "5. The wavelength of UV light that has an energy of 2.39 × 10-18 J is close to",
+      "answers": {
+        "a": "83 nm",
+        "b": "123 nm",
+        "c": "254 nm",
+        "d": "365 nm"
+      },
+      "explanations": {
+        "a": "Explanation 1  <a href='www.google.com'>here</a>",
+        "b": "Explanation 2",
+        "c": "Explanation 2",
+        "d": "Explanation 2"
+      },
+      "correctAnswer": "a",
       "difficulty": "beginner"
     }
   ]
