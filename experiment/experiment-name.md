@@ -1,1 +1,1 @@
-<b>Determination of Planck constant</b>
+Determination of Planck constant
