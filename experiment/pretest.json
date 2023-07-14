@@ -2,12 +2,46 @@
   "version": 2.0,
   "questions": [
     {
-      "question": "This is a Sample Question 1?",
+      "question": "1. What LED is stands for?",
       "answers": {
-        "a": "answer1",
-        "b": "answer2",
-        "c": "answer3",
-        "d": "answer4"
+        "a": "Light Emitted Diode",
+        "b": "Light Emitter Diode",
+        "c": "Light Emitting Diode",
+        "d": "Light Eliminated Diode"
+      },
+      "explanations": {
+        "a": "Explanation 1  <a href='www.google.com'>here</a>",
+        "b": "Explanation 2",
+        "c": "Explanation 2",
+        "d": "Explanation 2"
+      },
+      "correctAnswer": "c",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "2. The value of Planck’s constant is",
+      "answers": {
+        "a": "6.626 x 10<sup>–34</sup> Js<sup>–1</sup> ",
+        "b": "6.626 x 10<sup>–34</sup> Js",
+        "c": "6.626 x 10<sup>34</sup> Js",
+        "d": "6.626 x 10<sup>–34</sup> J"
+      },
+      "explanations": {
+        "a": "Explanation 1  <a href='www.google.com'>here</a>",
+        "b": "Explanation 2",
+        "c": "Explanation 2",
+        "d": "Explanation 2"
+      },
+      "correctAnswer": "b",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "3. An LED is used in",
+      "answers": {
+        "a": "Forward bias",
+        "b": "Reverse bias",
+        "c": "Both forward or reverse bias",
+        "d": "An unbiased state"
       },
       "explanations": {
         "a": "Explanation 1  <a href='www.google.com'>here</a>",
@@ -19,12 +53,12 @@
       "difficulty": "beginner"
     },
     {
-      "question": "This is a Sample Question 2?",
+      "question": "4. An LED is made with",
       "answers": {
-        "a": "answer1",
-        "b": "answer2",
-        "c": "answer3",
-        "d": "answer4"
+        "a": "Silicon",
+        "b": "Germanium",
+        "c": "Gallium arsenide",
+        "d": "Mercury "
       },
       "explanations": {
         "a": "Explanation 1  <a href='www.google.com'>here</a>",
@@ -33,6 +67,23 @@
         "d": "Explanation 2"
       },
       "correctAnswer": "c",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "5. A battery is a ",
+      "answers": {
+        "a": "Device that stores chemical energy and converts it to electrical energy",
+        "b": "Device that stores electrical energy as electrons",
+        "c": "Device that produces electrical energy using Earth’s magnetic field",
+        "d": "Device that stores chemical energy and converts it to mechanical energy"
+      },
+      "explanations": {
+        "a": "Explanation 1  <a href='www.google.com'>here</a>",
+        "b": "Explanation 2",
+        "c": "Explanation 2",
+        "d": "Explanation 2"
+      },
+      "correctAnswer": "a",
       "difficulty": "beginner"
     }
   ]
