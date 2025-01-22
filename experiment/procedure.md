@@ -1,8 +1,14 @@
+<b>Apparatus :</b><br>
+A.	0-10 V power supply<br>
+B.	Digital milliammeter<br>
+C.	Digital voltmeter<br>
+D.	Known wavelength LED’s (Light-Emitting Diodes).<br><br>
+
 <b><U>Procedure in laboratory (diagram)</U></b><br><br>
 <image src=images/p1.png><br><br>
 <image src=images/p2.png><br><br><br>
-<b><U>Procedure in laboratory</U></b><br><br>
-<b>Prepare a circuit as per follows </b><br>
+<b><U>Procedure in laboratory :</U></b><br><br>
+<b>Prepare a circuit as per follows</b><br>
 <image src=images/p3.png><br><br>
 <image src=images/p4.png><br><br>
 <image src=images/p5.png><br><br>
@@ -16,7 +22,7 @@
 <image src=images/p13.png><br><br>
 <image src=images/p14.png><br><br>
 <image src=images/p15.png><br><br>
-<b><U>Analysis</U></b><br>
-A.	Determine the Knee voltage for Red, Yellow, Green and Blue LEDs <br>
-B.	Note down the wavelengths for Red, Yellow, Green and Blue LEDs <br>
-C.	Calculate the value of Planck’s constant 
+<b><U>Analysis :</U></b><br>
+A)	Determine the Knee voltage for Red, Yellow, Green and Blue LEDs <br>
+B)	Note down the wavelengths for Red, Yellow, Green and Blue LEDs <br>
+C)	Calculate the value of Planck’s constant 
