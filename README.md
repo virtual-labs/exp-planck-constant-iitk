@@ -20,4 +20,6 @@ To apprise that the value of the Planck constant is very small, but not zero.
 
 SrNo | Name | Faculty or Student | Department| Institute | Email id
 :--|:--|:--|:--|:--|:--|
-1 | Esha Rao | Student | . | REC Banda | 2107340130019@recbanda.ac.in
+1 | Dhananjay Umrao | . | . | Indian Institute of Technology Kanpur | dumrao@iitk.ac.in
+2 | Khushboo Singh | . | . | Indian Institute of Technology Kanpur | skhushboo@iitk.ac.in
+3 | Harsh Dwivedi | . | . | Indian Institute of Technology Kanpur | harshd@iitk.ac.in
