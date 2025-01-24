@@ -21,6 +21,7 @@ D.	Known wavelength LED’s (Light-Emitting Diodes).<br><br>
 <image src=images/p12.png><br><br>
 <image src=images/p13.png><br><br>
 <image src=images/p14.png><br><br>
+<image src=images/p16.png><br><br>
 <image src=images/p15.png><br><br>
 <b><U>Analysis :</U></b><br>
 A)	Determine the Knee voltage for Red, Yellow, Green and Blue LEDs <br>
