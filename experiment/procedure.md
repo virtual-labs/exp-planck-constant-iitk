@@ -1,3 +1,13 @@
+<b>Procedure in Simulation : </b><br>
+
+1. Click on the "Enable power" to start the experiment.<br>
+2. Set up the circuit by connecting a resistor in series with the LED and power supply. Connect the voltmeter in parallel across the LED and the ammeter in series.<br>
+3. Slowly increase the voltage until the LED just begins to glow and note the threshold (knee) voltage.<br>
+4. Repeat the procedure for LEDs of different colors.<br>
+5. Record the threshold voltage and corresponding peak wavelength for each LED.<br><br>
+
+<b>Procedure in Laboratory : </b><br>
+
 <b>Apparatus :</b><br>
 A.	0-10 V power supply<br>
 B.	Digital milliammeter<br>
