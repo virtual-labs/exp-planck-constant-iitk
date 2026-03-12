@@ -1,1 +1,1 @@
-### Aim of the experiment
+To determine the value of Planck's constant
